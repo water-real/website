@@ -1,0 +1,10 @@
+@font-face { font-family: mojangles; src: url('Mojang-Regular.ttf'); }
+@font-face { font-family: mojangles; src: url('Mojang-Bold.ttf'); font-weight: bold}
+
+body {
+    background: rgb(221, 161, 94);
+    color: rgb(96, 108, 56);
+    font-family: mojangles, sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
